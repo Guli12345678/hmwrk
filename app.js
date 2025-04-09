@@ -19,3 +19,5 @@
 // const translate = cyrtolat();
 // console.log(translate.fromcyrtolat("кок кок "));
 console.log("Hello");
+
+console.log(23456);
