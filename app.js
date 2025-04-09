@@ -15,6 +15,6 @@
 // );
 // const gulsanam = require("gulsanam-mamadiyeva");
 // console.log(gulsanam);
-const cyrtolat = require("cyr-to-lat-uz");
-const translate = cyrtolat();
-console.log(translate.fromcyrtolat("кок кок "));
+// const cyrtolat = require("cyr-to-lat-uz");
+// const translate = cyrtolat();
+// console.log(translate.fromcyrtolat("кок кок "));
