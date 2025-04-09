@@ -18,3 +18,4 @@
 // const cyrtolat = require("cyr-to-lat-uz");
 // const translate = cyrtolat();
 // console.log(translate.fromcyrtolat("кок кок "));
+console.log("Hello");
