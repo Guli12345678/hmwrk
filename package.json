@@ -1,0 +1,17 @@
+{
+  "name": "lesson16",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app"
+  },
+  "keywords": [],
+  "author": "Gulsanam Mamadiyeva",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cowsay": "^1.6.0",
+    "cyr-to-lat-uz": "^2.0.0"
+  }
+}
